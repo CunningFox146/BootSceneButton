@@ -1,0 +1,16 @@
+{
+    "name": "com.cunningfox146.bootstrapbutton",
+    "version": "1.0.0",
+    "displayName": "Boot Scene Button",
+    "description": "Adds a button that lets you start your game from a boot scene",
+    "unity": "2021.2",
+   "keywords": [
+      "util",
+      "editor"
+    ],
+    "author": {
+      "name": "CunningFox146",
+      "email": "dezhemesov.work@gmail.com",
+      "url": "http://github.com/CunningFox146"
+    }
+  }
